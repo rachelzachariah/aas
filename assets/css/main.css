@@ -1712,7 +1712,7 @@
 /* Section/Article */
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 		header > p {
@@ -1741,7 +1741,7 @@
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 105%;
 		}
 
 		.image.fit {
@@ -2219,8 +2219,7 @@
 	#sidebar {
 		color: #aaa;
 		color: rgba(255, 255, 255, 0.55);
-		text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.5);
-		width: 14em;
+		width: 15em;
 		padding: 3em 1.35em 1em 1.15em;
 		background: #364050 url("images/bg01.png");
 		overflow-y: auto;
@@ -2418,14 +2417,14 @@
 
 				#logo a {
 					display: block;
-					background-color: #c94663;
+					background-color: #fff;
 					background-image: url("images/bg01.png");
 					padding: 0.875em 0.25em;
 					border-radius: 0.2em;
 					text-align: center;
-					box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.15), 0 0.025em 0.15em 0em rgba(0, 0, 0, 0.25);
+					/*box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.15), 0 0.025em 0.15em 0em rgba(0, 0, 0, 0.25);*/
 					text-decoration: none;
-					color: #fff;
+					color: #3fe5e5;
 				}
 
 		/* Content */
